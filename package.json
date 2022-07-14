@@ -1,0 +1,13 @@
+{
+  "name": "naoid",
+  "version": "1",
+  "description": "A",
+  "main": "index.js",
+  "author": "Anderson sanchez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "nanoid": "^4.0.0"
+  },
+  "type": "module"
+}
